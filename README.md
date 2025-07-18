@@ -29,4 +29,4 @@ Clone this repository
 git clone https://github.com/Shashank-0609/Myntra_Clone.git
 Open the index.html file in your browser.
 
-Live Demo
+Live Demo: shashank-4bef0d.netlify.app
