@@ -26,7 +26,7 @@ iv. Interactive hover events for each navigation item
 How to Run
 Clone this repository
 
-git clone https://github.com/your-username/myntra-clone.git
+git clone https://github.com/Shashank-0609/myntra-clone.git
 Open the index.html file in your browser.
 
 Live Demo
